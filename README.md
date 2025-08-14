@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parakh24
+- 👋 Hi, I’m @BitGrind_369
 - 👀 I’m interested in Machine Learning and Artificial Intelligence/ Data Structures and algorithms 
 - 🌱 I’m currently working on Python related projects, Google colab and working as Python developer as an intern 
 - 💞️ I’m looking to collaborate on Python-related projects.
