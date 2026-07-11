@@ -55,8 +55,8 @@
 
 <p align="left">
   <a href="mailto:parakhvirnawe24@gmail.com">Email</a> ·
-  <a href="#">LinkedIn</a> ·
-  <a href="#">LeetCode</a>
+  <a href="https://www.linkedin.com/in/parakh-virnawe-986269314/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/parakhvirnawe/">LeetCode</a>
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ from a repo you like if you find it useful.</i></p>
