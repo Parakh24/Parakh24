@@ -41,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Parakh24&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parakh24&layout=compact&hide_border=true" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parakh24&hide_border=true" />
+  <img src="./profile/streak.svg" />
 </p>
 
 ---
@@ -55,8 +55,8 @@
 
 <p align="left">
   <a href="mailto:parakhvirnawe24@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/parakh-virnawe-986269314/">LinkedIn</a> ·
-  <a href="https://leetcode.com/u/parakhvirnawe/">LeetCode</a>
+  <a href="#">LinkedIn</a> ·
+  <a href="#">LeetCode</a>
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ from a repo you like if you find it useful.</i></p>
