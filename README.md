@@ -14,7 +14,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 Interested in **Machine Learning**, **Artificial Intelligence**, and **Data Structures & Algorithms**
+- 🔭 Interested in **Machine Learning and LLMs**, **Generative AI**
 - 🌱 Currently working on ML projects in **Google Colab**, and interning at **UR Heaven Space Pvt Ltd** as AI Researcher
 - 🤝 Looking to collaborate on **Machine Learning** projects
 - 📫 Reach me at **[parakhvirnawe24@gmail.com](mailto:parakhvirnawe24@gmail.com)**
